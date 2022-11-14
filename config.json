@@ -8,7 +8,7 @@
     "representer": true,
     "analyzer": false
   },
-  "blurb": "Java is a very widely used Object Oriented programming . It's safe, simple to use and portable so that you can \"write once, run anywhere\".",
+  "blurb": "Java is a very used Object Oriented programming . It's safe, simple to use and portable so that you can \"write once, run anywhere\".",
   "version": 3,
   "online_editor": {
     "indent_style": "space",
